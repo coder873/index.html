@@ -17,11 +17,11 @@
         <section>
             <h2 id="chicken">Chicken</h2>
             <ul>
-                <li>Balsamic Roasted Brussels Sprouts, Butternut Squash and Chicken Thighs</li>
-                <li>Prosciutto-Wrapped Chicken with Garlic and Herb Cheese</li>
-                <li>Siri Pinter’s One-Pot Chicken Alfredo</li>
-                <li>Florentine Penne with Chicken</li>
-                <li>Garlic-Bread Chicken Nuggets with Balsamic Ketchup</li>
+                <li>Chicken Cacciatore with Roasted Peppers</li>
+                <li>Chicken Marsala with Mushrooms and Wine Sauce</li>
+                <li>Chicken Vesuvio with Peas</li>
+                <li>Roasted Chicken with Carrots and Celery/li>
+                <li>Chicken Angelo with Onions and Olive Oil</li>
             </ul>
         </section>
     </div>
@@ -30,12 +30,12 @@
         <section>
             <h2 id="pork">Pork</h2>
             <ul>
-                <li>Pork Cheek and Black-Eyed Pea Chili</li>
-                <li>Braised Pork with Cherry Gravy</li>
-                <li>Aleppo-Pepper-Pork-and-Fennel Sandwiches</li>
-                <li>Herb-Roasted Pork Subs with Garlicky Spinach</li>
-                <li>Chinese-Style Ribs with Guava Barbecue Sauce</li>
-                <li>Pork Medallions with Onion Marmalade</li>
+                <li>Pork Tenderloin with Roasted Cabbage</li>
+                <li>Breaded Air Fryer Pork Chops</li>
+                <li>Pork Carnitas</li>
+                <li>Pan Fried Pork Steak/li>
+                <li>Stir Fry Ginger Pork</li>
+                <li>Pulled Pork Barbecue Sandwiches/li>
             </ul>
         </section>
     </div>
@@ -44,12 +44,12 @@
         <section>
             <h2 id="steak">Steak</h2>
             <ul>
-                <li>Butter-Basted Rib Eye Steaks</li>
-                <li>Balsamic Marinated Flank Steak</li>
-                <li>Grilled Hanger Steak with Kimchi-Apple Slaw</li>
-                <li>Throwback Porterhouse Steaks</li>
-                <li>Minute Steak Stacks with Herbed Anchovy Butter</li>
-                <li>Grilled Skirt Steak with Salsa Verde</li>
+                <li>Oven Broiled T-Bone Steak</li>
+                <li>Borbon Street Rib-Eye Steak </li>
+                <li>Skirt Steak Fajitas</li>
+                <li>Steak Marinade</li>
+                <li>Pepper Steak</li>
+                <li>New York Strip Steak </li>
             </ul>
         </section>
     </div>
