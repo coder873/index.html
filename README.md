@@ -20,7 +20,7 @@
                 <li>Chicken Cacciatore with Roasted Peppers</li>
                 <li>Chicken Marsala with Mushrooms and Wine Sauce</li>
                 <li>Chicken Vesuvio with Peas</li>
-                <li>Roasted Chicken with Carrots and Celery/li>
+                <li>Roasted Chicken with Carrots and Celery</li>
                 <li>Chicken Angelo with Onions and Olive Oil</li>
             </ul>
         </section>
@@ -33,9 +33,9 @@
                 <li>Pork Tenderloin with Roasted Cabbage</li>
                 <li>Breaded Air Fryer Pork Chops</li>
                 <li>Pork Carnitas</li>
-                <li>Pan Fried Pork Steak/li>
+                <li>Pan Fried Pork Steak</li>
                 <li>Stir Fry Ginger Pork</li>
-                <li>Pulled Pork Barbecue Sandwiches/li>
+                <li>Pulled Pork Barbecue Sandwiches</li>
             </ul>
         </section>
     </div>
